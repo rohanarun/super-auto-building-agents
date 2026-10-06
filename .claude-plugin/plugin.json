@@ -1,0 +1,25 @@
+{
+  "name": "super-auto-building-agents",
+  "version": "1.0.0",
+  "description": "Build agents on Mac and Chrome",
+  "author": {
+    "name": "Super Powers AI",
+    "email": "rohan@getsupers.com",
+    "url": "https://getsupers.com"
+  },
+  "homepage": "https://getsupers.com/",
+  "keywords": [
+    "agents",
+    "automation",
+    "mac",
+    "chrome"
+  ],
+  "displayName": "Super Auto-building agents",
+  "repository": "https://github.com/rohanarun/super-auto-building-agents",
+  "license": "LicenseRef-Super-Terms",
+  "icon": "./assets/icon.png",
+  "supportUrl": "https://getsupers.com/contact",
+  "privacyPolicyUrl": "https://app.getsupers.com/privacy",
+  "termsOfServiceUrl": "https://app.getsupers.com/terms",
+  "documentationUrl": "https://github.com/rohanarun/super-auto-building-agents#readme"
+}
